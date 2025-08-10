@@ -1,0 +1,9 @@
+/* Minimal overrides*/
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+details>summary {
+    cursor: pointer;
+}
